@@ -1,5 +1,5 @@
 ### Hi there 👋, My name is Ayush 
-![](https://th.bing.com/th/id/OIP.nxkFsQhHbbQH5GjuQnMeRgHaEQ?w=271&h=180&c=7&r=0&o=5&dpr=1.25&pid=1.7)
+![](https://cdn.discordapp.com/attachments/967699878945882132/1037072382805950587/unknown.png)
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
